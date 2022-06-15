@@ -1,0 +1,30 @@
+[
+  {
+    "package": "ade4TkGUI",
+    "oncran": true
+  },
+  {
+    "package": "DRomics",
+    "oncran": true
+  },
+  {
+    "package": "fitdistrplus",
+    "oncran": true
+  },
+  {
+    "package": "MareyMap",
+    "oncran": true
+  },
+  {
+    "package": "Mondrian",
+    "oncran": true
+  },
+  {
+    "package": "nlstools",
+    "oncran": true
+  },
+  {
+    "package": "rbioacc",
+    "oncran": true
+  }
+]
