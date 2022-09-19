@@ -4,7 +4,15 @@
     "oncran": true
   },
   {
+    "package": "DRomics",
+    "oncran": true
+  },
+  {
     "package": "fitdistrplus",
+    "oncran": true
+  },
+  {
+    "package": "MareyMap",
     "oncran": true
   },
   {

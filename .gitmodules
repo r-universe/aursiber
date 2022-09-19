@@ -8,9 +8,19 @@
 	url = https://github.com/aursiber/ade4tkgui
 	shallow = true
 	registered = true
+[submodule "DRomics"]
+	path = DRomics
+	url = https://github.com/aursiber/dromics
+	shallow = true
+	registered = true
 [submodule "fitdistrplus"]
 	path = fitdistrplus
 	url = https://github.com/aursiber/fitdistrplus
+	shallow = true
+	registered = true
+[submodule "MareyMap"]
+	path = MareyMap
+	url = https://github.com/aursiber/mareymap
 	shallow = true
 	registered = true
 [submodule "Mondrian"]
