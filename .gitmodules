@@ -8,9 +8,9 @@
 	url = https://github.com/aursiber/ade4tkgui
 	shallow = true
 	registered = true
-[submodule "Mondrian"]
-	path = Mondrian
-	url = https://github.com/aursiber/mondrian
+[submodule "DRomics"]
+	path = DRomics
+	url = https://github.com/aursiber/dromics
 	shallow = true
 	registered = true
 [submodule "fitdistrplus"]
@@ -18,23 +18,23 @@
 	url = https://github.com/aursiber/fitdistrplus
 	shallow = true
 	registered = true
-[submodule "DRomics"]
-	path = DRomics
-	url = https://github.com/aursiber/dromics
-	shallow = true
-	registered = true
-[submodule "rbioacc"]
-	path = rbioacc
-	url = https://github.com/aursiber/rbioacc
-	shallow = true
-	registered = true
 [submodule "MareyMap"]
 	path = MareyMap
 	url = https://github.com/aursiber/mareymap
 	shallow = true
 	registered = true
+[submodule "Mondrian"]
+	path = Mondrian
+	url = https://github.com/aursiber/mondrian
+	shallow = true
+	registered = true
 [submodule "nlstools"]
 	path = nlstools
 	url = https://github.com/aursiber/nlstools
+	shallow = true
+	registered = true
+[submodule "rbioacc"]
+	path = rbioacc
+	url = https://github.com/aursiber/rbioacc
 	shallow = true
 	registered = true
