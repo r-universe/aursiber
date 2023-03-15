@@ -18,6 +18,16 @@
 	url = https://github.com/aursiber/fitdistrplus
 	shallow = true
 	registered = true
+[submodule "Interatrix"]
+	path = Interatrix
+	url = https://github.com/aursiber/interatrix
+	shallow = true
+	registered = true
+[submodule "kissDE"]
+	path = kissDE
+	url = https://github.com/aursiber/kissde
+	shallow = true
+	registered = true
 [submodule "MareyMap"]
 	path = MareyMap
 	url = https://github.com/aursiber/mareymap
@@ -26,6 +36,11 @@
 [submodule "Mondrian"]
 	path = Mondrian
 	url = https://github.com/aursiber/mondrian
+	shallow = true
+	registered = true
+[submodule "nlsMicrobio"]
+	path = nlsMicrobio
+	url = https://github.com/aursiber/nlsmicrobio
 	shallow = true
 	registered = true
 [submodule "nlstools"]
