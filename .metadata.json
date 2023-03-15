@@ -4,7 +4,7 @@
     "oncran": true
   },
   {
-    "package": "DRomics",
+    "package": "Mondrian",
     "oncran": true
   },
   {
@@ -12,19 +12,19 @@
     "oncran": true
   },
   {
-    "package": "MareyMap",
-    "oncran": true
-  },
-  {
-    "package": "Mondrian",
-    "oncran": true
-  },
-  {
-    "package": "nlstools",
+    "package": "DRomics",
     "oncran": true
   },
   {
     "package": "rbioacc",
+    "oncran": true
+  },
+  {
+    "package": "MareyMap",
+    "oncran": true
+  },
+  {
+    "package": "nlstools",
     "oncran": true
   }
 ]
