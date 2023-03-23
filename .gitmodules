@@ -8,6 +8,11 @@
 	url = https://github.com/aursiber/ade4tkgui
 	shallow = true
 	registered = true
+[submodule "CINID"]
+	path = CINID
+	url = https://github.com/cran/CINID
+	shallow = true
+	registered = true
 [submodule "DRomics"]
 	path = DRomics
 	url = https://github.com/aursiber/dromics
@@ -28,6 +33,11 @@
 	url = https://github.com/aursiber/kissde
 	shallow = true
 	registered = true
+[submodule "LDcorSV"]
+	path = LDcorSV
+	url = https://github.com/cran/LDcorSV
+	shallow = true
+	registered = true
 [submodule "MareyMap"]
 	path = MareyMap
 	url = https://github.com/aursiber/mareymap
@@ -46,6 +56,11 @@
 [submodule "nlstools"]
 	path = nlstools
 	url = https://github.com/aursiber/nlstools
+	shallow = true
+	registered = true
+[submodule "OnAge"]
+	path = OnAge
+	url = https://github.com/cran/OnAge
 	shallow = true
 	registered = true
 [submodule "rbioacc"]
