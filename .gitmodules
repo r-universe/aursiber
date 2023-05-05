@@ -43,11 +43,6 @@
 	url = https://github.com/aursiber/mareymap
 	shallow = true
 	registered = true
-[submodule "Mondrian"]
-	path = Mondrian
-	url = https://github.com/aursiber/mondrian
-	shallow = true
-	registered = true
 [submodule "nlsMicrobio"]
 	path = nlsMicrobio
 	url = https://github.com/aursiber/nlsmicrobio
