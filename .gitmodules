@@ -1,65 +1,40 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ade4TkGUI"]
 	path = ade4TkGUI
 	url = https://github.com/aursiber/ade4tkgui
-	shallow = true
-	registered = true
 [submodule "CINID"]
 	path = CINID
 	url = https://github.com/cran/CINID
-	shallow = true
-	registered = true
 [submodule "DRomics"]
 	path = DRomics
 	url = https://github.com/aursiber/dromics
-	shallow = true
-	registered = true
 [submodule "fitdistrplus"]
 	path = fitdistrplus
 	url = https://github.com/aursiber/fitdistrplus
-	shallow = true
-	registered = true
 [submodule "Interatrix"]
 	path = Interatrix
 	url = https://github.com/aursiber/interatrix
-	shallow = true
-	registered = true
 [submodule "kissDE"]
 	path = kissDE
 	url = https://github.com/aursiber/kissde
-	shallow = true
-	registered = true
 [submodule "LDcorSV"]
 	path = LDcorSV
 	url = https://github.com/cran/LDcorSV
-	shallow = true
-	registered = true
 [submodule "MareyMap"]
 	path = MareyMap
 	url = https://github.com/aursiber/mareymap
-	shallow = true
-	registered = true
 [submodule "nlsMicrobio"]
 	path = nlsMicrobio
 	url = https://github.com/aursiber/nlsmicrobio
-	shallow = true
-	registered = true
 [submodule "nlstools"]
 	path = nlstools
 	url = https://github.com/aursiber/nlstools
-	shallow = true
-	registered = true
 [submodule "OnAge"]
 	path = OnAge
 	url = https://github.com/cran/OnAge
-	shallow = true
-	registered = true
 [submodule "rbioacc"]
 	path = rbioacc
 	url = https://github.com/aursiber/rbioacc
-	shallow = true
-	registered = true
