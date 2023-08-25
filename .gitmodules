@@ -14,6 +14,9 @@
 [submodule "LDcorSV"]
 	path = LDcorSV
 	url = https://github.com/cran/LDcorSV
+[submodule "LifemapR"]
+	path = LifemapR
+	url = https://github.com/cran/LifemapR
 [submodule "MareyMap"]
 	path = MareyMap
 	url = https://github.com/aursiber/mareymap
