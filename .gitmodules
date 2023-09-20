@@ -38,6 +38,3 @@
 [submodule "nlstools"]
 	path = nlstools
 	url = https://github.com/aursiber/nlstools
-[submodule "rbioacc"]
-	path = rbioacc
-	url = https://github.com/aursiber/rbioacc
