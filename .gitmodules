@@ -26,6 +26,9 @@
 [submodule "ade4TkGUI"]
 	path = ade4TkGUI
 	url = https://github.com/aursiber/ade4tkgui
+[submodule "adephylo"]
+	path = adephylo
+	url = https://github.com/aursiber/adephylo
 [submodule "fitdistrplus"]
 	path = fitdistrplus
 	url = https://github.com/aursiber/fitdistrplus
