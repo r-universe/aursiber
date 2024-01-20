@@ -8,18 +8,12 @@
 [submodule "DRomics"]
 	path = DRomics
 	url = https://github.com/aursiber/dromics
-[submodule "Interatrix"]
-	path = Interatrix
-	url = https://github.com/aursiber/interatrix
 [submodule "LDcorSV"]
 	path = LDcorSV
 	url = https://github.com/cran/LDcorSV
 [submodule "LifemapR"]
 	path = LifemapR
 	url = https://github.com/cran/LifemapR
-[submodule "MareyMap"]
-	path = MareyMap
-	url = https://github.com/aursiber/mareymap
 [submodule "OnAge"]
 	path = OnAge
 	url = https://github.com/cran/OnAge
