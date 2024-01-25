@@ -20,9 +20,6 @@
 [submodule "fitdistrplus"]
 	path = fitdistrplus
 	url = https://github.com/aursiber/fitdistrplus
-[submodule "kissDE"]
-	path = kissDE
-	url = https://github.com/aursiber/kissde
 [submodule "nlsMicrobio"]
 	path = nlsMicrobio
 	url = https://github.com/aursiber/nlsmicrobio
