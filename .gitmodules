@@ -17,9 +17,6 @@
 [submodule "OnAge"]
 	path = OnAge
 	url = https://github.com/cran/OnAge
-[submodule "fitdistrplus"]
-	path = fitdistrplus
-	url = https://github.com/aursiber/fitdistrplus
 [submodule "nlsMicrobio"]
 	path = nlsMicrobio
 	url = https://github.com/aursiber/nlsmicrobio
