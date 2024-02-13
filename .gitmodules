@@ -17,9 +17,3 @@
 [submodule "OnAge"]
 	path = OnAge
 	url = https://github.com/cran/OnAge
-[submodule "nlsMicrobio"]
-	path = nlsMicrobio
-	url = https://github.com/aursiber/nlsmicrobio
-[submodule "nlstools"]
-	path = nlstools
-	url = https://github.com/aursiber/nlstools
