@@ -8,9 +8,6 @@
 [submodule "LDcorSV"]
 	path = LDcorSV
 	url = https://github.com/cran/LDcorSV
-[submodule "LifemapR"]
-	path = LifemapR
-	url = https://github.com/cran/LifemapR
 [submodule "OnAge"]
 	path = OnAge
 	url = https://github.com/cran/OnAge
