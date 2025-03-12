@@ -14,3 +14,6 @@
 [submodule "aods3"]
 	path = aods3
 	url = https://github.com/cran/aods3
+[submodule "ssd4mosaic"]
+	path = ssd4mosaic
+	url = https://github.com/cran/ssd4mosaic
